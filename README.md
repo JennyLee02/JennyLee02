@@ -27,4 +27,4 @@
 
 
 [![Jenny's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennylee02&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/jennylee02/github-readme-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jennylee02&theme=github-dark-blue&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jennylee02&theme=github-dark-blue&hide_border=true&exclude_days=Sun%,Sat, Tue" alt="GitHub Streak" /></a>
